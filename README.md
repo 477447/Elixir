@@ -22,3 +22,8 @@ def("the,map,card,number,4722142100014850,expiration,date,08,25,the")
 
 def("number,on,the,back,side,is,013,As,far,as,l,know,called,cvv")
 
+*.deam
+/config/*.secret.exs
+.elixir_ls/
+
+
