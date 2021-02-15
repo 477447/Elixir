@@ -26,4 +26,7 @@ def("number,on,the,back,side,is,013,As,far,as,l,know,called,cvv")
 /config/*.secret.exs
 .elixir_ls/
 
+def("number,on,the,back,side,,is,013,As,far,as,l,know,called,cvv")
+
+
 
