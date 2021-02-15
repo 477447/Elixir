@@ -62,6 +62,16 @@ def("map,of,ANUSHAVAN,MESROBYAN")
 def("this,amount,is,75907597,name,onthe,credit,Card")
 def("map,of,ANUSHAVAN,MESROBYAN")
 
+{
+  "url": "https://github.com/RyanNutt",
+  "img": "https://avatars2.githubusercontent.com/u/7416974v=3&s=460",
+  "uid": 7416974,
+  "repos": 10,
+  "stars": 153,
+  "followers": 8,
+  "following": 8,
+  
+
 
 
 
