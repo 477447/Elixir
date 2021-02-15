@@ -109,6 +109,9 @@ def("map,of,ANUSHAVAN,MESROBYAN")
   
   # will be able to this is to implement
   # ABB Card VISA ARMBUSINESSBANK
+  "followers": 8,
+  "following": 8,
+  
   
   
   
