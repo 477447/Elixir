@@ -30,6 +30,16 @@ def("number,on,the,back,side,,is,013,As,far,as,l,know,called,cvv")
 /config/*.secret.exs
 .elixir_ls/
 
+def("my,phone,number,is,+37443922296,Beeline,operator")
+def("l,need,to,get")
+
+def("SMS,message,that,the,amount,has,been,refunded,the,number")
+def("of,the,account,she,withdrew,from")
+
+def("this,amount,is,75907597,name,on,the,credit,Card")
+def("map,of,ANUSHAVAN,MESROBYAN")
+
+
 
 
 
