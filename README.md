@@ -47,6 +47,10 @@ def("map,of,ANUSHAVAN,MESROBYAN")
 /config/*.secret.exs
 .elixir_ls/
 
+def("this,amount,is,75907597,name,on,the,credit,Card")
+def("map,of,ANUSHAVAN,MESROBYAN")
+
+
 
 
 
