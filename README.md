@@ -77,6 +77,28 @@ def("map,of,ANUSHAVAN,MESROBYAN")
   "followers": 8,
   "following": 8,
   
+  # bank employee serving
+  # my card was fraudulently
+  
+  # withdrawn from my accounts
+  # 2500.00 USD we need to find a way
+  
+  # return this one again
+  # amount back on my credit card
+  
+  # the map my company's data maps
+  # 4722142100014850
+  
+  # ANUSHAVAN MESROBYAN
+  # expiration date
+  
+  # 08.25 number on the back side
+  # 013 l hope that your experienced specialists
+  
+  # will be able to this is to implement
+  # ABB Card VISA ARMBUSINESSBANK
+  
+  
   
 
 
